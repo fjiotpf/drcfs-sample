@@ -1,2 +1,1 @@
 # drcfs-sample
-DRCFSのサンプルフローです。
